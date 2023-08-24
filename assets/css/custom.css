@@ -1,0 +1,9 @@
+.logo img{
+    height: 50px;
+}
+.success{
+    color:#39ff39;
+}
+.email_verify_otp,.new_password{
+    display: none;
+} 

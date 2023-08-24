@@ -1,0 +1,8 @@
+RewriteEngine on
+
+
+RewriteRule ^$ index.php
+RewriteRule ^home$ index.php
+RewriteRule ^login$ login.php
+RewriteRule ^register$ register.php
+RewriteRule ^reset$ reset-password.php
